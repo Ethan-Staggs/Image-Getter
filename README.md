@@ -12,6 +12,6 @@ Simple app that retrieves images from an api in mvvm
 ##
 
   # Future Features:
-  Room Database
-  Favorites Fragment
-  Download and Set as Home-Screen
+  1.Room Database
+  2.Favorites Fragment
+  3.Download and Set as Home-Screen
