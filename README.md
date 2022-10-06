@@ -1,5 +1,5 @@
 # Image-Getter
-Simple app that retrieves images to from an api in mvvm
+Simple app that retrieves images from an api in mvvm
 
 ##
 
